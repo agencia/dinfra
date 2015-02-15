@@ -1,0 +1,14 @@
+content
+- Home
+ - Promo Slider (content TBD)
+ - News
+ - Clients
+- Hosting
+ - Shared hosting banner
+ - Packages
+- Cloud
+ - VPS banner
+ - Packages
+- Support
+ - Linux Entrerprise Support
+- Contact

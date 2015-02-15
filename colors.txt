@@ -1,0 +1,17 @@
+colors
+
+Blue
+http://paletton.com/#uid=13C0u0kllllaFw0g0qFqFg0w0aF
+748BA7
+4B688B
+2B4A6F
+143153
+051C38
+
+Orange
+http://paletton.com/#uid=10d0u0krew0gWHPm9A3vBrAyPlC
+FF9B78
+FF7C4F
+FF5E26
+DC3A03
+AC2C00
